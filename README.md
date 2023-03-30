@@ -2,6 +2,8 @@
 
 A GUI for [Mokuro](https://github.com/kha-white/mokuro) built with Electron.
 
+The goal of this project is to pre-compile the python scripts and provide a GUI to users.
+
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
