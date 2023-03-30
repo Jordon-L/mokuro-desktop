@@ -2,7 +2,7 @@
 
 A GUI for [Mokuro](https://github.com/kha-white/mokuro) built with Electron.
 
-The goal of this project is to pre-compile the mokuro and provide a GUI to users.
+The goal of this project is to pre-compile Mokuro and provide a GUI to users.
 
 ## Recommended IDE Setup
 
